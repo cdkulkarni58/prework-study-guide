@@ -38,6 +38,8 @@ g.Now clone this repository to this newly created folder by  git clone command
 h. download visual studio program  Unzip the folder and copy the file to application folder on your machine 
 h. Now you are ready to go  Use available files provided in the prework study guide
 i. Switch to newly created Github repository and crate new issues
+    The issues created here are HTML JavaScript  GIt README and Deployment  These are the various stages of development of the code wherein the code is updated in the chronological order as above by creating branches for individual step
+    first in assets folder new files with extension js and css were created in which javascript is added which runs the code file wheras .css extension would provide the frame borders for various texts provided 
 
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.

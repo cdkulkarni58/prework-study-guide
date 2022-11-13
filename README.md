@@ -5,9 +5,10 @@
 This project is created as Study guide  for Bootcamp student. This project elaborates usage of various languages like JavaScript, Html, CSS and GTT under one visual studio platform.
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
--  The motivation for developing this project is to start with learn usage of various languages as noted above along with effective use of GitHub which provides the platform that would make seamless updating on the program at the various stages by using branching the program What was your motivation?
--The Project was developed so as to understand and learn basic concepts and ideas behind front end web development and also to use global updating and modification of program using GitHub Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-This pilot project elaborates  the usage of all the above languages along with two binders one is visual studio and other Github. By using these programs in combinations  a webpage can be developed - What problem does it solve?
+-  Motivation for developing this project is to  learn usage of various languages as noted above along with effective use of GitHub which provides the platform that would make seamless updating on the program at the various stages by using branching the program What was your motivation?
+-The Project was developed so as to understand and learn basic concepts and ideas behind front end web development and also to use global updating and modification of program using GitHub Why did you build this project? 
+
+This pilot project elaborates  the usage of all the above languages along with two binders one is visual studio and other Github. By using these programs in combinations  a webpage can be developed that would be able to interact with the user by further improving javascript code- What problem does it solve?
 
 This project development has provided the oppurtunity for new learner like me to understand and provided insight to  implement application of these various programs to apply and how to develope effective and efficient web applications - What did you learn?
 
@@ -25,6 +26,18 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
+
+Various steps involved in the development are as listed below
+a.open terminal on Mac machine
+b.create a new folder on this machine by using command mkdir
+c.Switch to the newly created directory by using cd command
+d.download Github and create sign in of your name with the apropriate available email id on this website
+e.create repository with some name to it 
+f. Create SSH key from terminal  and copy this key to github repository This will enable flow of files to and from machine to github and vice a versa by pull and push commands
+g.Now clone this repository to this newly created folder by  git clone command
+h. download visual studio program  Unzip the folder and copy the file to application folder on your machine 
+h. Now you are ready to go  Use available files provided in the prework study guide
+
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 

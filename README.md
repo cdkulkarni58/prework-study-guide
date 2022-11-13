@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is created as Study guide  for Bootcamp student. This project elaborates usage of various languages like JavaScript, Html, CSS and Github under one visual studio platform.
+This project is created as Study guide  for Bootcamp student. This project elaborates usage of various languages like JavaScript, Html, CSS with Github as a platform that allows branching that allows multiple users to work on same project simultanously.
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 -  The motivation for developing this project is to start and learn usage of various languages as noted above along with effective use of GitHub which provides the platform that would make seamless updating on the program at the various stages by using branching the program. Github is the palform which helps work on same project by multiple user by concept of branching  What was your motivation?

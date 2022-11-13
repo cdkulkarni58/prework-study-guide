@@ -34,8 +34,14 @@ g.Now clone this repository to this newly created folder by  git clone command
 h. download visual studio program  Unzip the folder and copy the file to application folder on your machine 
 h. Now you are ready to go  Use available files provided in the prework study guide
 i. Switch to newly created Github repository and crate new issues
-    The issues created here are HTML JavaScript  GIt README and Deployment  These are the various stages of development of the code wherein the code is updated in the chronological order as above by creating branches for individual step
-    first in assets folder new files with extension js and css were created in which javascript is added which runs the code file wheras .css extension would provide the frame borders for various texts provided 
+The issues created here are HTML JavaScript  GIt README and Deployment  These are the various stages of development of the code wherein the code is updated in the chronological order as above by creating branches for individual step
+Step 1 : Add to  Html code in the main section for various elements and create a branch called feature/add-html
+Step 2 : Create Under Assets foldrr .css file. Add  Border and format code to this file and cretae branch feature/add-cs
+Step 3 : Create Under Assets folder .js file. Add the javascript code to this file and create branch  called feature/add-js 
+As soon as these files gives expected results the issues are resolved and these issues are removed from Github Repository
+Step 4 : Start Editing Readme file from terminal and create new branch feature/add-readme. Once this file is complete  and  the explanation  of the program in file is complete then in Github repository close issue of readme file 
+Step 4 : Start Editing Readme file from terminal and create new branch feature/add-readme. Once this file is complete  and  the explanation  of the program in file is complete then in Github repository close issue of readme file 
+ Step 5 : At his point the program is ready for deployment tp server. This is the last and important  stage of this project as at thispoint all the necessary tests and documentaton of the project is ready and it is depployed on the server as user application
 
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.

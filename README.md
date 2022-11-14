@@ -1,89 +1,21 @@
-# BootCamp  Prework Study for Front End web Development
+# Prework Study Guide Webpage
 
 ## Description
 
-This project is created as Study guide  for Bootcamp student. This project elaborates usage of various languages like JavaScript, Html, CSS with Github as a platform that allows branching that allows multiple users to work on same project simultanously.
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-
-This project development has provided the oppurtunity for new learner like me to understand and provided insight to  implement application of these various programs to apply and how to develope effective and efficient web applications - What did you learn?
-
-## Table of Contents (Optional)
-1.Introduction
-a. 
-
-
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
-Various steps involved in the development are as listed below
-a.open terminal on Mac machine
-b.create a new folder on this machine by using command mkdir
-c.Switch to the newly created directory by using cd command
-d.download Github and create sign in of your name with the apropriate available email id on this website
-e.create repository with some name to it 
-f. Create SSH key from terminal  and copy this key to github repository This will enable flow of files to and from machine to github and vice a versa by pull and push commands
-g.Now clone this repository to this newly created folder by  git clone command
-h. download visual studio program  Unzip the folder and copy the file to application folder on your machine 
-h. Now you are ready to go  Use available files provided in the prework study guide
-i. Switch to newly created Github repository and crate new issues
-The issues created here are HTML JavaScript  GIt README and Deployment  These are the various stages of development of the code wherein the code is updated in the chronological order as above by creating branches for individual step
-Step 1 : Add to  Html code in the main section for various elements and create a branch called feature/add-html
-Step 2 : Create Under Assets foldrr .css file. Add  Border and format code to this file and cretae branch feature/add-cs
-Step 3 : Create Under Assets folder .js file. Add the javascript code to this file and create branch  called feature/add-js 
-As soon as these files gives expected results the issues are resolved and these issues are removed from Github Repository
-Step 4 : Start Editing Readme file from terminal and create new branch feature/add-readme. Once this file is complete  and  the explanation  of the program in file is complete then in Github repository close issue of readme file 
-Step 4 : Start Editing Readme file from terminal and create new branch feature/add-readme. Once this file is complete  and  the explanation  of the program in file is complete then in Github repository close issue of readme file 
- Step 5 : At his point the program is ready for deployment tp server. This is the last and important  stage of this project as at thispoint all the necessary tests and documentaton of the project is ready and it is depployed on the server as user application
-
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Please refer to the LICENSE in the repo.
